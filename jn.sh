@@ -1,1 +1,1 @@
-jupyter notebook --ip=0.0.0.0 --allow-root --NotebookApp.token='' --notebook-dir 'work'
+jupyter notebook --ip=0.0.0.0 --NotebookApp.token='' --notebook-dir 'work'
