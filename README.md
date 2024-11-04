@@ -1,7 +1,7 @@
 # mypyenv
 
 ### docker usage
-`docker-compose up -d`
+`docker compose up -d`
 
 ### jupyter notebook usage
 `sh ./jn.sh`
